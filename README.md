@@ -1,1 +1,2 @@
 # WOF_stack_queue
+使用linkedlist实现自己的stack和queue
